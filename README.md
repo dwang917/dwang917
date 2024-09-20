@@ -27,7 +27,7 @@ You've reached Daming! I'm a Master's student in CS at Colorado School of Minesð
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?&logo=swift&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-336791?&logo=postgresql&logoColor=ffffff)
 
-### Frameworks and Tools I worked with:
+### Frameworks and Tools I work with:
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?&logo=spring&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?&logo=express&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?&logo=dotnet&logoColor=white)
