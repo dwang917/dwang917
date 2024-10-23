@@ -1,10 +1,15 @@
 # Howdy Folks 👋
 You've reached Daming! I'm a Master's student in CS at Colorado School of Mines🛠️ 
 
+## Let's talk about:
+- Data Structures and applications
+- Algorithms and optimizations
+- AI & Machine Learning
+
 ## 🌱 I’m currently learning ...
-- Convolutional Neural Network
-- Support Vector Machine
-- Other Machine Learning/Data Science skills
+- System Design principles
+- Cloud Deployment and tools
+- More AI & Machine Learning!
 
 ## 🎿 My hobbies:
 - I'm a lifetime learner! I am currently learning my third language español. I also speak English and Mandarin.
