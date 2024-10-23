@@ -4,6 +4,7 @@ You've reached Daming! I'm a Master's student in CS at Colorado School of Mines�
 ## Let's talk about:
 - Data Structures and applications
 - Algorithms and optimizations
+- System designs and full stack development
 - AI & Machine Learning
 
 ## 🌱 I’m currently learning ...
